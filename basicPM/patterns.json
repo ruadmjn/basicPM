@@ -1,0 +1,9 @@
+﻿[
+  {
+    "Name": "around echo ast show",
+    "Key": "1",
+    "Languages": "Php",
+    "DataFormat": "Dsl",
+    "Value": "<[@var]> = <{ <[_GET|_POST|_REQUEST|_SESSION|_COOKIE|_SERVER|_FILES]>[<[\"\"]>] }>"
+  }
+]
